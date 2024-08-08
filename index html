@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>KRISHNA</title>
+        <title>CSS Cascade</title>
+        <link rel="stylesheet" href="./#style.CSS">
+        <style>
+            div{
+                margin: 100px 70px;
+                border: 200px 300px;
+                padding: 100px 70px;
+                height: 300px;
+                width: 300px;
+            }
+            #first{
+             background-color:blue;
+             -webkit-text-fill-color: white;
+              
+            }
+            #second{
+               background-color: yellowgreen;
+               -webkit-text-fill-color: rgb(226, 43, 43);
+            }
+            #third{
+                background-color:cadetblue;
+                -webkit-text-fill-color: aquamarine;
+            }
+            #fourth{
+              background-color: black;
+              -webkit-text-fill-color:yellowgreen;
+            }
+            #fiveth{
+              background-color: cyan;
+              -webkit-text-fill-color: darkgreen;
+            }
+            #sixth{
+               background-color: cadetblue;
+               -webkit-text-fill-color: coral;
+            }
+            #seventh{
+                background-color: darkorange;
+                -webkit-text-fill-color: gold;
+            }
+            p{
+                font-size: 1.5em;
+            }
+            li{
+                font-size: 1.5em;
+            }
+            p2{
+                font-size: 1.5em;
+            }
+            p3{
+                font-size: 1.5em;
+            }
+            p4{
+                font-size: 1.5em;
+            }
+            p5{
+                font-size: 1.5em;
+            }
+             body{
+                background-color: aqua;
+             }
+             h1{
+                color: yellow;
+             }
+             
+
+        </style>
+        
+    </head>
+
+<body>
+    <h1>KRISHNA</h1>
+    
+    <div>
+    <img src="./desktop-wallpaper-black-krishna-angry-krishna.jpg" height="500" alt="krishna project"/>
+</div>
+    <h2>Summary</h2>
+    RADHA RADHA <br />
+    <div id="first">
+    <P>Krishna (/ˈkrɪʃnə/;[12] Sanskrit: कृष्ण, IAST: Kṛṣṇa [ˈkr̩ʂɳɐ]) is a major deity in Hinduism.
+         He is worshipped as the eighth avatar of Vishnu and also as the Supreme God in his own right.[13] He is the god of protection, compassion, tenderness, and love;[14][1] and is widely revered among Hindu divinities.
+</P>
+        </div>
+    <hr />
+    <h2>Kurukshetra War</h2>
+    <ul>
+        <div id="second">  
+        <li>
+            The Mahabharata, one of the world's longest epic poems, has captivated generations with its intricate narrative of cosmic struggles and moral dilemmas.
+             Set against the backdrop of ancient India, the epic revolves around the conflict between the Pandavas and Kauravas, culminating in the legendary battle
+        </li>
+    </div>
+    <div id="third">
+        <li>
+            Indeed, the Mahabharata, a monumental epic, bears the distinctive designation of "itihas," signifying "thus occurred.
+            " This term, along with "Puraan," was meticulously crafted by ancient scholars to delineate between events of antiquity and those more recent.
+
+        </li>
+    </div>
+    </ul>
+    <hr />
+    <div>
+<img src="./wp5893457.jpg" height="400" alt="KRISHNA project"/>
+</div>
+    <h2>How Krishna’s angry words reflect his love</h2>
+     <p2>
+        <div id="fourth">
+            In the Bhagavad-gita’s sixteenth chapter, as Krishna concludes his description of the ungodly people’s destructive and self-destructive activities, his tone changes from neutral to angry.
+         His anger is seen most evidently in the declaration (16.19-20), “I cast them deep into material ex
+        </div>
+        </p2>
+
+      <p3>
+        <div id="fiveth">
+        This declaration raises a question: is Krishna a vengeful God who casts the faithless into the fires of hell? Not at all.
+         He has already declared (05.29) that he is the well-wisher of everyone — and everyone includes ungodly beings. 
+         In fact, he cares for everyone so much that he personally accompanies the
+        </div> 
+        </p3>   
+
+         <p4>
+            <div id="sixth">
+            In his Gita commentary, Prabhupada points to this parental corrective mood in Krishna’s statement by his resourceful translation of the Sanskrit word ‘kruran.’ 
+            Though the word’s  standard meaning is ‘cruel’, Prabhupada renders it as ‘mischievou
+        </div>
+         </p4>
+<hr />
+<div>
+            <img src="./angry-anime-picture-hindu-god-krishna-face-angry-anime-picture-hindu-god-krishna-face-art-created-ai-technology-image-305446550.jpg" height="400" alt="angre krishna"/>
+        </div>
+
+       <h2>The story of Lord Krishna’s birth</h2>     
+       
+       <p5>
+        <div id="seventh">
+        ccording to above timelines Lord Krishna lived for 126 years and 5 months. 
+        If we had Gregorian calendar at the time of Lor
+    </div>
+    </p5>
+<hr />
+        <h3>Other</h3>
+        <ol>
+            <li>
+              <a href="https://www.google.com/maps/place/Binjhol,+Panipat,+Haryana+132106/@29.3590586,76.9398463,15.51z/data=!4m6!3m5!1s0x390ddb12c432ff09:0x4e3095dc9b6eb62b!8m2!3d29.3602994!4d76.944141!16s%2Fg%2F12hrj0fw5?entry=ttu">My Location</a>
+              <li>
+                <a href="https://mail.google.com/mail/u/0/#inbox">contact me</a>
+              </li>
+            </li>
+        </ol>
+        <hr />
+        <p6>MADE BY SHIVAM</p6>
+    
+</body>
+</html>
